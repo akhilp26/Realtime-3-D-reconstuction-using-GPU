@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/akhil/Desktop/proj/fastfusion/src/camerautils/camerautils.cpp
+camerautils.hpp
+/home/akhil/Desktop/proj/fastfusion/src/camerautils/camerautils.hpp
+Eigen/Geometry
+-
+stdio.h
+-
+
+/home/akhil/Desktop/proj/fastfusion/src/camerautils/camerautils.hpp
+opencv2/opencv.hpp
+-
+string
+-
+iostream
+-
+

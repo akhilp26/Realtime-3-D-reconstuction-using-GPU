@@ -1,0 +1,3 @@
+# accelerometer data
+# file: 'rgbd_dataset_freiburg3_long_office_household.bag'
+# timestamp ax ay az

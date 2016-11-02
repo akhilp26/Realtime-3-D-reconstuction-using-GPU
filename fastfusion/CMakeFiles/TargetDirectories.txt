@@ -1,0 +1,15 @@
+/home/akhil/Desktop/proj/fastfusion/CMakeFiles/edit_cache.dir
+/home/akhil/Desktop/proj/fastfusion/CMakeFiles/rebuild_cache.dir
+/home/akhil/Desktop/proj/fastfusion/src/CMakeFiles/edit_cache.dir
+/home/akhil/Desktop/proj/fastfusion/src/CMakeFiles/rebuild_cache.dir
+/home/akhil/Desktop/proj/fastfusion/src/CMakeFiles/onlinefusion.dir
+/home/akhil/Desktop/proj/fastfusion/src/camerautils/CMakeFiles/rebuild_cache.dir
+/home/akhil/Desktop/proj/fastfusion/src/camerautils/CMakeFiles/edit_cache.dir
+/home/akhil/Desktop/proj/fastfusion/src/camerautils/CMakeFiles/camerautils.dir
+/home/akhil/Desktop/proj/fastfusion/src/auxiliary/CMakeFiles/edit_cache.dir
+/home/akhil/Desktop/proj/fastfusion/src/auxiliary/CMakeFiles/rebuild_cache.dir
+/home/akhil/Desktop/proj/fastfusion/src/auxiliary/CMakeFiles/auxiliary.dir
+/home/akhil/Desktop/proj/fastfusion/src/fusion/CMakeFiles/edit_cache.dir
+/home/akhil/Desktop/proj/fastfusion/src/fusion/CMakeFiles/rebuild_cache.dir
+/home/akhil/Desktop/proj/fastfusion/src/fusion/CMakeFiles/geometryfusion_mipmap_cpu.dir
+/home/akhil/Desktop/proj/fastfusion/src/fusion/CMakeFiles/geometryfusion_aos.dir
